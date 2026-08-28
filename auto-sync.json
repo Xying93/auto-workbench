@@ -1,0 +1,28 @@
+{"updatedAt":"2026-08-26T14:30:00+08:00","items":[
+  {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"OpenAI 发布 GPT-5 多模态升级","summary":"支持实时音视频交互，上下文扩展至 200 万 tokens，推理速度提升 3 倍。","url":"https://openai.com/blog/","deadline":""},
+  {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"Anthropic Claude 4 安全框架更新","summary":"发布 AI 安全等级标准，青少年可参与的 AI 创意赛道同步开启。","url":"https://www.anthropic.com/","deadline":"2026-09-15"},
+  {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"Google DeepMind 推出 Gemini 2.0","summary":"多模态推理能力大幅提升，支持 100 万 tokens 上下文，新增实时视频理解功能。","url":"https://deepmind.google/","deadline":""},
+
+  {"source":"写作投稿消息动态","category":"上午","domain":"写作投稿","time":"2026-08-26T06:00:00+08:00","title":"科幻世界杂志社青少年科幻征文","summary":"面向 12-18 岁青少年征集科幻短篇，字数 3000-8000，一等奖奖金 5000 元。","url":"https://www.scifiworld.com/","deadline":"2026-09-30"},
+  {"source":"写作投稿消息动态","category":"上午","domain":"写作投稿","time":"2026-08-26T06:00:00+08:00","title":"人民文学出版社新人作品征集","summary":"征集原创长篇小说，题材不限，字数 10 万以上，优秀作品优先出版。","url":"https://www.rwcn.com/","deadline":"2026-10-15"},
+  {"source":"写作投稿消息动态","category":"上午","domain":"写作投稿","time":"2026-08-26T06:00:00+08:00","title":"全国中学生创新作文大赛","summary":"教育部白名单赛事，面向初中和高中生，主题为科技与未来，截稿 10 月 20 日。","url":"https://www.cxzwds.com/","deadline":"2026-10-20"},
+
+  {"source":"编程科创动态","category":"上午","domain":"编程科创","time":"2026-08-26T07:30:00+08:00","title":"全国青少年信息学奥赛 CSP-J/S 报名开启","summary":"CSP-J 入门组、CSP-S 提高组报名开始，安徽省考点设在宿州一中。","url":"https://www.noi.cn/","deadline":"2026-09-10"},
+  {"source":"编程科创动态","category":"上午","domain":"编程科创","time":"2026-08-26T07:30:00+08:00","title":"全国青少年科技创新大赛省级选拔","summary":"教育部白名单赛事，科技创新项目可申报，安徽省决赛 10 月举行。","url":"https://www.cyscc.org/","deadline":"2026-09-30"},
+  {"source":"编程科创动态","category":"上午","domain":"编程科创","time":"2026-08-26T07:30:00+08:00","title":"蓝桥杯青少年编程大赛","summary":"Scratch、Python、C++ 三个组别，面向 7-18 岁，省赛 9 月开赛。","url":"https://www.lanqiaobei.cn/","deadline":"2026-09-25"},
+
+  {"source":"财务会计政策","category":"上午","domain":"财务税务","time":"2026-08-26T08:00:00+08:00","title":"增值税小规模纳税人减免政策延续","summary":"月销售额 10 万以下免征增值税政策延续至 2027 年底，小规模纳税人征收率 1%。","url":"https://www.chinatax.gov.cn/","deadline":""},
+  {"source":"财务会计政策","category":"上午","domain":"财务税务","time":"2026-08-26T08:00:00+08:00","title":"新《会计法》修订要点解读","summary":"加大财务造假处罚力度，最高罚款 500 万，新增会计信用档案制度。","url":"https://www.mof.gov.cn/","deadline":""},
+
+  {"source":"科技发明动态","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"日内瓦国际发明展中国代表团获奖","summary":"中国代表团获 35 枚金牌，青少年组创新项目获特别奖 3 项。","url":"https://www.inventions-geneva.ch/","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"全国青少年科技创新大赛发明项目征集","summary":"面向中小学生征集科技发明项目，优秀作品可参加国际展。","url":"https://www.cyscc.org/","deadline":"2026-10-31"},
+
+  {"source":"机器人动态","category":"下午","domain":"机器人","time":"2026-08-26T13:00:00+08:00","title":"VEX 机器人世界锦标赛中国选拔赛","summary":"VEX IQ 和 VEX V5 两个组别，中国区选拔赛 10 月开赛，面向小学到大学。","url":"https://www.vexrobotics.com/","deadline":"2026-09-30"},
+  {"source":"机器人动态","category":"下午","domain":"机器人","time":"2026-08-26T13:00:00+08:00","title":"RoboMaster 青少年挑战赛","summary":"大疆旗下机器人赛事，面向 12-18 岁学生，新增 AI 视觉识别任务。","url":"https://www.robomaster.com/","deadline":"2026-10-15"},
+
+  {"source":"科技特长生政策","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"安徽省科技特长生招生政策更新","summary":"2026 年起科技特长生招生新增 AI 与编程方向，宿州一中、二中各招 15 人。","url":"https://www.ahedu.gov.cn/","deadline":"2026-12-31"},
+  {"source":"科技特长生政策","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"宿州市青少年科技创新培养计划","summary":"市教育局发布科技后备人才培养方案，择优推荐参加省级竞赛。","url":"https://www.ahsz.gov.cn/","deadline":""},
+
+  {"source":"每周竞品动态追踪","category":"下午","domain":"综合","time":"2026-08-26T16:45:00+08:00","title":"竞品 A 发布新版本 AI 助手功能","summary":"新增文档自动摘要和多语言翻译，UI 更新支持暗色模式。","url":"https://example-competitor-a.com/","deadline":""},
+  {"source":"每周竞品动态追踪","category":"下午","domain":"综合","time":"2026-08-26T16:45:00+08:00","title":"竞品 B 推出青少年编程课程新体系","summary":"从 Scratch 到 Python 全链路课程，定价 299 元/月，含 1v1 答疑。","url":"https://example-competitor-b.com/","deadline":""}
+]}

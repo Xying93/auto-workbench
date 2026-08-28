@@ -1,0 +1,17 @@
+{
+  "name": "自动化工作台",
+  "short_name": "工作台",
+  "description": "自动化内容同步·浏览·提醒工作台，已配置自动化按上午/下午/晚上归类，自动同步内容，浏览进度跟踪，活动提醒与链接直达。",
+  "start_url": "./workbench-desktop.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f3f0",
+  "theme_color": "#2f2e2b",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "assets/app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
