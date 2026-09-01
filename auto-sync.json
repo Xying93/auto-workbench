@@ -1,4 +1,4 @@
-{"updatedAt":"2026-08-26T14:30:00+08:00","items":[
+{"updatedAt":"2026-09-01T10:00:00+08:00","items":[
   {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"OpenAI 发布 GPT-5 多模态升级","summary":"支持实时音视频交互，上下文扩展至 200 万 tokens，推理速度提升 3 倍。","url":"https://openai.com/blog/","deadline":""},
   {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"Anthropic Claude 4 安全框架更新","summary":"发布 AI 安全等级标准，青少年可参与的 AI 创意赛道同步开启。","url":"https://www.anthropic.com/","deadline":"2026-09-15"},
   {"source":"每日AI新闻简报","category":"上午","domain":"AI人工智能","time":"2026-08-26T06:31:00+08:00","title":"Google DeepMind 推出 Gemini 2.0","summary":"多模态推理能力大幅提升，支持 100 万 tokens 上下文，新增实时视频理解功能。","url":"https://deepmind.google/","deadline":""},
@@ -14,9 +14,6 @@
   {"source":"财务会计政策","category":"上午","domain":"财务税务","time":"2026-08-26T08:00:00+08:00","title":"增值税小规模纳税人减免政策延续","summary":"月销售额 10 万以下免征增值税政策延续至 2027 年底，小规模纳税人征收率 1%。","url":"https://www.chinatax.gov.cn/","deadline":""},
   {"source":"财务会计政策","category":"上午","domain":"财务税务","time":"2026-08-26T08:00:00+08:00","title":"新《会计法》修订要点解读","summary":"加大财务造假处罚力度，最高罚款 500 万，新增会计信用档案制度。","url":"https://www.mof.gov.cn/","deadline":""},
 
-  {"source":"科技发明动态","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"日内瓦国际发明展中国代表团获奖","summary":"中国代表团获 35 枚金牌，青少年组创新项目获特别奖 3 项。","url":"https://www.inventions-geneva.ch/","deadline":""},
-  {"source":"科技发明动态","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"全国青少年科技创新大赛发明项目征集","summary":"面向中小学生征集科技发明项目，优秀作品可参加国际展。","url":"https://www.cyscc.org/","deadline":"2026-10-31"},
-
   {"source":"机器人动态","category":"下午","domain":"机器人","time":"2026-08-26T13:00:00+08:00","title":"VEX 机器人世界锦标赛中国选拔赛","summary":"VEX IQ 和 VEX V5 两个组别，中国区选拔赛 10 月开赛，面向小学到大学。","url":"https://www.vexrobotics.com/","deadline":"2026-09-30"},
   {"source":"机器人动态","category":"下午","domain":"机器人","time":"2026-08-26T13:00:00+08:00","title":"RoboMaster 青少年挑战赛","summary":"大疆旗下机器人赛事，面向 12-18 岁学生，新增 AI 视觉识别任务。","url":"https://www.robomaster.com/","deadline":"2026-10-15"},
 
@@ -24,5 +21,24 @@
   {"source":"科技特长生政策","category":"下午","domain":"科技科创","time":"2026-08-26T13:00:00+08:00","title":"宿州市青少年科技创新培养计划","summary":"市教育局发布科技后备人才培养方案，择优推荐参加省级竞赛。","url":"https://www.ahsz.gov.cn/","deadline":""},
 
   {"source":"每周竞品动态追踪","category":"下午","domain":"综合","time":"2026-08-26T16:45:00+08:00","title":"竞品 A 发布新版本 AI 助手功能","summary":"新增文档自动摘要和多语言翻译，UI 更新支持暗色模式。","url":"https://example-competitor-a.com/","deadline":""},
-  {"source":"每周竞品动态追踪","category":"下午","domain":"综合","time":"2026-08-26T16:45:00+08:00","title":"竞品 B 推出青少年编程课程新体系","summary":"从 Scratch 到 Python 全链路课程，定价 299 元/月，含 1v1 答疑。","url":"https://example-competitor-b.com/","deadline":""}
+  {"source":"每周竞品动态追踪","category":"下午","domain":"综合","time":"2026-08-26T16:45:00+08:00","title":"竞品 B 推出青少年编程课程新体系","summary":"从 Scratch 到 Python 全链路课程，定价 299 元/月，含 1v1 答疑。","url":"https://example-competitor-b.com/","deadline":""},
+
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第40届全国青少年科技创新大赛在西安启幕","summary":"国家级最高规格科创赛事，以\"勇担时代使命 助力高水平科技自立自强\"为主题，聚焦生命科学、集成电路、深空等前沿领域，首迎六大洲国际代表同台竞技。","url":"https://www.cast.org.cn/xw/MTBD/art/2026/art_387c5eb6ba404ac3b35ca81553ff8f7c.html","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第21届宋庆龄少年儿童发明奖颁奖活动举办","summary":"科技部批准、教育部白名单的国家级公益性赛事，设发明作品、人工智能创意、创意作品三大类，8月19-22日在北京首钢园颁奖。","url":"https://www.sclf.org/gysy/gyzx/202608/t20260819_33212.htm","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第10届全国青少年无人机大赛总决赛举办","summary":"中国航空学会主办，7月30日-8月2日在天津举办，2万余名选手参赛，设无人机竞技、航空科普、创新实践等内容，首次落户天津。","url":"https://csaa.org.cn/c/2026-05-30/645104.shtml","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"2026全国青少年航天创新大赛总决赛开幕","summary":"教育部白名单赛事，8月在杭州滨江开幕，设航天科技创新与太空探测竞技两大单元，含火箭设计制作、星球车机器人挑战、无人机攻防对抗等8个赛项。","url":"http://www.zj.xinhuanet.com/20260809/7df33cc950bd426b9f5b1413c961001b/c.html","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"RoboMaster 2026机甲大师超级对抗赛总决赛","summary":"8月深圳举办，东北大学获全国总冠军，赛事11年累计培养近20万青年工程师，融合机器视觉、嵌入式、机械工程、自主导航等多学科技术。","url":"http://m.chinanews.com/wap/detail/cht/zwsp/10675101.shtml","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"2026粤港澳青少年人工智能大赛在深举行","summary":"7月11日开幕，以\"AI赋能未来 科创融合湾区\"为主题，2500余名选手参与，设六大赛项覆盖全学段，已举办七届成为湾区科创交流重要平台。","url":"http://www.sznews.com/news/content/2026-07/14/content_32120517.htm","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"IEYI世界青少年创新发明展中国区评选揭晓","summary":"始创于2004年的国际发明展，2月在北京国家速滑馆\"冰丝带\"举办，来自10余个国家和地区的青少年参与，培养设计思维与解决复杂问题能力。","url":"https://www.nsso.com.cn/newsInfo_490.html","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"RoboRAVE国际教育机器人大会中国场举办","summary":"拥有近30年历史的普及型机器人大会，2月在北京\"冰丝带\"举办，以\"现场发布任务\"的高度灵活性和教育性风靡全球，跨文化跨地域深度交流。","url":"https://news.bjd.com.cn/2026/02/26/11602772.shtml","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第45届北京青少年科技创新大赛开幕","summary":"3月开幕，涵盖人工智能、生命科学、工程学、环境科学等多领域，涌现AI智能助行系统、低碳污水净化技术等优质项目，国际化特色鲜明。","url":"http://bj.people.com.cn/n2/2026/0329/c14540-41537093.html","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第19届ICMC国际机器人创客大赛启动","summary":"针对3-14岁少年儿童创客，以\"单人赛制\"和\"独立完成\"为特色，倡导创新、独立、勇敢精神，真实考验和激发选手科技实践能力。","url":"http://www.icmc100.com/newsinfo/8987054.html","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"全国青少年人工智能创新挑战赛开赛","summary":"中国少年儿童发展服务中心主办，设智能机器人应用、人工智能场景设计、智能芯片及开源硬件等四大方向10个专项赛，面向中小学全学段。","url":"http://aiic.china61.org.cn/article-69fab6d0e9db232ab07745b0-LlM1H","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"蓝桥杯青少组赛事报名进行中","summary":"工信部人才交流中心主办，面向小学到高中生，设Scratch、Python、C++等组别，从STEMA测评到省赛国赛形成完整进阶体系。","url":"https://www.lanqiaoqingshao.cn/","deadline":"2026-09-25"},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"北京世园机器人大赛选拔千余名创客角逐","summary":"覆盖小学到高中全年龄段，设VEXGO、VEXIQ、V5RC三个组别，综合考核机器人操控、编程设计、结构研发与团队协作能力。","url":"http://www.cnr.cn/bj/sijh/20260716/t20260716_527714113.shtml","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"世界机器人大赛重庆选拔赛2000余人参赛","summary":"7月18日在黔江开幕，同期举办渝鄂湘黔四省市边区无人机足球邀请赛，来自四省市及陕西、湖南等地2000余名青少年同场竞技。","url":"http://cq.cnr.cn/cqjy/2021jyzx/2021jw/20260720/t20260720_527720434.shtml","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第19届\"明天小小科学家\"奖励活动决赛名单公布","summary":"9月6日公布全国决赛名单，面向高中学生开展科技创新项目评选，是国内青少年科创领域重要奖项，新都一中等校学子入选。","url":"https://chengdu.xiaoxiaotong.org/Pages/","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"云南省青少年科学调查体验活动启动","summary":"面向小学中高年级及初中生，围绕能源资源、生态环境、安全健康、创新创意四个领域17个主题开展实践活动，优秀作品获表彰。","url":"https://www.xiaoxiaotong.org/News/ArticleView.aspx?AID=268551","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第七届CRH杂交水稻杯机器人创客大赛启动","summary":"设青少年竞赛单元，含发明创造、科学研究报告、创新设计方案等类别，面向小学到高中学生，展示答辩、展板等综合能力考核。","url":"https://m.saikr.com/55799","deadline":""},
+  {"source":"科技发明动态","category":"下午","domain":"科技发明","time":"2026-09-01T09:00:00+08:00","title":"第32届江苏省青少年科技模型大赛国际选拔赛","summary":"包含IEYI世界青少年创客发明大赛、机甲大师青少年挑战赛、VEX-EDR/VEX-IQ机器人工程挑战赛、智能无人车竞速挑战赛等多个国际赛项。","url":"https://www.sciedu.org/fnotice/noticeDetails/1441/1","deadline":""}
 ]}
